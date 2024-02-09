@@ -7,7 +7,7 @@
 
 🚀 **Current Focus:** mastering advanced analytics
 
-📈 **GitHub Contributions:** Explore my repositories for SQL snippets, BI project templates, and more. Let's build a data-driven future together!
+📈 **GitHub Contributions:** Explore my repositories for SQL , Pyspark samples and more. Let's build a data-driven future together!
 
 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/anusha-pathiranage-40a432a4/) 
 
