@@ -1,5 +1,5 @@
 
-## 👋 Hi there, I'm Anusha Pathiranage - BUsiness Intelligence Engineer at your service!
+# 👋 Hi there, I'm Anusha Pathiranage - Business Intelligence Engineer at your service!
 
 📊 I'm on a mission to turn data into insights and insights into actions. As a BI Engineer, I specialize in crafting meaningful visualizations and data pipelines that empower businesses to make informed decisions.
 
