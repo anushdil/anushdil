@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**anushdil/anushdil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ## 👋 Hi there, I'm Anusha Pathiranage - BUsiness Intelligence Engineer at your service!
 
@@ -19,4 +13,4 @@ Here are some ideas to get you started:
 
 Excited to collaborate and geek out over data! Let's connect and make analytics magic happen. ✨
 
--->
+
